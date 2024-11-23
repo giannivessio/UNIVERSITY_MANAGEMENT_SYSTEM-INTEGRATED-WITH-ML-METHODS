@@ -1,4 +1,5 @@
-Project Overview 
+Project Overview:
+
 This project is a software application developed in Python, featuring a graphical user interface built with Tkinter 
 and a relational database managed using SQLite. It is designed to simulate a university management system, 
 allowing users to handle information about students, courses, professors, and exams. 
