@@ -5,3 +5,6 @@ and a relational database managed using SQLite. It is designed to simulate a uni
 allowing users to handle information about students, courses, professors, and exams. 
 The application stands out for its ease of use and the integration of a machine learning model (linear regression)
 to predict students' grade averages based on their age. 
+
+
+[Scarica il documento PDF](https://github.com/giannivessio/UNIVERSITY_MANAGEMENT_SYSTEM-INTEGRATED-WITH-ML-METHODS/blob/master/Gestionale_Universita.pdf)
