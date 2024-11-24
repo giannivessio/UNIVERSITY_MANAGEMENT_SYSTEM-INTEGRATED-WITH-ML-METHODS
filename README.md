@@ -9,3 +9,5 @@ to predict students' grade averages based on their age.
 
 In this PDF, we provide an overview of the tools used to create this management system, incorporating data visualization techniques and machine learning to perform predictive analyses.
 [Scarica il documento PDF](https://github.com/giannivessio/UNIVERSITY_MANAGEMENT_SYSTEM-INTEGRATED-WITH-ML-METHODS/blob/master/Gestionale_Universita.pdf)
+
+PROJECT CREATOR: VESSIO GIOVANNI
